@@ -1,0 +1,5 @@
+2020-02-13 10:44:27.1103|INFO|TicketListerKVN.Program|Program started
+2020-02-13 10:44:27.1608|INFO|TicketListerKVN.Program|Program completed reading phase.
+2020-02-13 10:44:27.1719|INFO|TicketListerKVN.Program|Found 2 tickets
+2020-02-13 10:45:38.5311|INFO|TicketListerKVN.Program|Created ticket: 3,The user can't find their on button,investigation,low,Bob Franklen,Jenifer Puntst,Gregory Smith
+2020-02-13 10:45:38.5565|INFO|TicketListerKVN.Program|Program ended

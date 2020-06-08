@@ -1,0 +1,4 @@
+TicketID,Summary,Status,Priority,Submitted,Assigned,Watching
+1,This is a bug ticket,Open,High,Drew Kjell,Jane Doe,Drew Kjell|John Smith|Bill Jones
+2,this a ticket bruh,open,low,John Cena,Your Mom,Phill Swift|Jesus Christ
+3,The user can't find their on button,investigation,low,Bob Franklen,Jenifer Puntst,Gregory Smith
